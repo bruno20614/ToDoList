@@ -1,0 +1,6 @@
+C:\Users\bruno\RiderProjects\ToDoList\src\Manager.Infra\Manager.Infra\obj\Debug\net8.0\Manager.Infra.csproj.AssemblyReference.cache
+C:\Users\bruno\RiderProjects\ToDoList\src\Manager.Infra\Manager.Infra\obj\Debug\net8.0\Manager.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\RiderProjects\ToDoList\src\Manager.Infra\Manager.Infra\obj\Debug\net8.0\Manager.Infra.AssemblyInfoInputs.cache
+C:\Users\bruno\RiderProjects\ToDoList\src\Manager.Infra\Manager.Infra\obj\Debug\net8.0\Manager.Infra.AssemblyInfo.cs
+C:\Users\bruno\RiderProjects\ToDoList\src\Manager.Infra\Manager.Infra\obj\Debug\net8.0\Manager.Infra.csproj.CoreCompileInputs.cache
+C:\Users\bruno\RiderProjects\ToDoList\src\Manager.Infra\Manager.Infra\obj\Debug\net8.0\Manager.Infra.sourcelink.json
