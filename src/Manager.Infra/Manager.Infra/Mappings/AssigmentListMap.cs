@@ -27,7 +27,7 @@ public class AssigmentListMap : IEntityTypeConfiguration<AssigmentList>
         
         builder
             .HasMany(u => u.Assignments)
-            .WithOne(u => u.AssignmentList)
+            .Hasone(u => u.AssignmentList)
             .OnDelete(DeleteBehavior.Restrict);
 
     } 
