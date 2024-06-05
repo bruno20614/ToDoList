@@ -1,6 +1,6 @@
 namespace Manager.Infra.Interfaces;
 
-public class IUserRepository
+public class UserRepositories
 {
     
 }
