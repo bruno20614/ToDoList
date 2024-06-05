@@ -3,8 +3,9 @@ using Manager.Domain.Entities;
 namespace Manager.Domain.Interfaces;
 public interface IUserRepository : IBaseRepository<User>
 {
-    Task<User> GetByEmail(string email);
-    Task<List<User>>SearchByEmail(string email);
-    Task<List<User>> SearchByName(string name);
-    
+    Task<User> FindByEmail(string email);
+    void Add(User user);
+    Task<bool> IsEmailInUse(string email);
+
+
 }
