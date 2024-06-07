@@ -29,6 +29,8 @@ namespace Manager.Infra.Context
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
+            base.OnModelCreating(modelBuilder);
+            
             builder.ApplyConfiguration(new UserMap());
             builder.ApplyConfiguration(new AssignmentMap());
             builder.ApplyConfiguration(new AssignmentListMap());
